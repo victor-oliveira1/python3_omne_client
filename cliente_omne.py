@@ -1,5 +1,5 @@
 #!/bin/python3
-#Cliente OMNI (Antigo BRMA) para autenticação de usuário
+#Cliente OMNE (Antigo BRMA) para autenticação de usuário
 #Necessário inserir o usuário, senha e ip do servidor no script.
 #victor.oliveira@gmx.com
 import ssl
